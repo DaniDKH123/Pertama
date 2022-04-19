@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pertama</string>
+    <string name="data_received">data_received</string>
+    <string name="ini_halaman_pindah">Ini Halaman Pindah</string>
+    <string name="result_from_activity">result_from_activity</string>
+    <string name="move_with_result">move with result</string>
+    <string name="dial_number">dial number</string>
+    <string name="move_activity">move activity</string>
+    <string name="move_with_object">move with object</string>
+    <string name="pindah_data">Pindah Data</string>
+    <string name="button_pindah">Button Pindah</string>
+    <string name="dani_kasmanto_himawan">DANI KASMANTO HIMAWAN</string>
+    <string name="_2010031805027">2010031805027</string>
+    <string name="biodata">biodata</string>
+</resources>
